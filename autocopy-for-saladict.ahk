@@ -10,7 +10,8 @@
 ;~ https://0paste.com/8133
 
 SetTitleMatchMode, 2
-programs := ["SumatraPDF.exe", "mailmaster.exe"]
+; programs := ["SumatraPDF.exe", "mailmaster.exe"]
+programs := ["SumatraPDF.exe", "mailmaster.exe", "Calibrize.exe"]
 If WinActive("沙拉查词-独立查词窗口") || CheckProgramActive(programs) {
     Pause::Suspend
 
