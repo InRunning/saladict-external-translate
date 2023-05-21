@@ -65,3 +65,8 @@
 更改调用的快捷键需要将脚本中调用的快捷键以及chrome中调用的快捷键一同更改才可生效，autohotkey快捷键见教程https://wyagd001.github.io/zh-cn/docs/Tutorial.htm#s21
 
 ![](images/更改调用快捷键.png)
+
+## 使用效果
+
+下图为sumatraPDF中外划词的效果
+![](images/外划词效果.png)
